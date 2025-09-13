@@ -1,13 +1,12 @@
 # Yapay Zeka Chatbot
 
 ## 💡 Proje Hakkında:  
-FAQ (sıkça sorulan sorular) veya OpenAI API destekli, kullanıcıların sorularını yanıtlayan bir chatbot.
+OpenAI API destekli, kullanıcıların sorularını yanıtlayan bir chatbot.
 
 ---
 
 ## 🚀 Özellikler
 
-- 💬 Basit FAQ modu
 - 🧠 OpenAI API ile akıllı, doğal dil yanıtları
 - 🌐 Web arayüzü ile kullanıcı dostu deneyim
 
@@ -15,6 +14,10 @@ FAQ (sıkça sorulan sorular) veya OpenAI API destekli, kullanıcıların sorula
 
 ## 🛠️ Kullanılan Teknolojiler
 
+  
+- HTML / CSS
+- JavaScript
 - Node.js  
-- HTML / CSS  
 - OpenAI API
+
+<img width="1919" height="1027" src="https://github.com/user-attachments/assets/58af9e42-4f09-4e4b-9cdf-28a5d9d76fb1" />
